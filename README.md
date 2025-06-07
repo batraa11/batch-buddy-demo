@@ -78,6 +78,41 @@ src/
 └── styles/       # Making things pretty
 ```
 
+### 🛡️ Challenges & GitHub Preparation
+
+While building **EduBatch Academy**, I encountered and overcame several hurdles:
+
+- **State Management Complexity:**  
+  Managing dynamic form states for batch registrations and payments required careful structuring of Formik schemas and Yup validations to prevent bugs and ensure a smooth UX.
+
+- **Responsive Design:**  
+  Ensuring pixel-perfect layouts across mobile, tablet, and desktop meant rigorous testing and custom Tailwind breakpoints, especially for the calendar and batch overview components.
+
+- **Animation Performance:**  
+  Integrating Framer Motion animations without causing jank involved lazy-loading heavy components and fine-tuning transition durations.
+
+- **Demo-to-Production Switch:**  
+  Abstracting storage logic so the app could seamlessly toggle between `localStorage` (demo) and Firebase (production) involved defining clear service interfaces and environment variable handling.
+
+- **Firebase Integration:**  
+  Setting up Firebase Authentication, Firestore rules, and Storage with proper security rules was new territory. Writing comprehensive tests ensured only authenticated users could modify batches.
+
+- **Environment Configuration:**  
+  Creating and documenting `.env.example`, configuring Vite to expose only necessary variables, and securing API keys required careful attention.
+
+- **Repository Cleanup:**  
+  Converting a personal project into an open-source-ready repo meant:
+  - Removing sensitive files and credentials  
+  - Adding a clear `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`  
+  - Updating `package.json` with scripts for linting, formatting, and testing  
+  - Introducing GitHub Actions CI for auto lint, build checks, and deploy previews  
+  - Adding badges (build status, npm version, license) to the README for quick insights
+
+- **Documentation:**  
+  Writing `INTEGRATION.md` for Firebase setup and adding JSDoc comments in services helped onboard contributors quickly.
+
+These challenges not only strengthened the app but also polished my workflow for creating robust, open-source projects.
+
 ## 🤝 Contributing
 
 Got ideas? We'd love to hear them! This project is all about making education better, one commit at a time.

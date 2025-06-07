@@ -1,0 +1,20 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <rect width="180" height="180" rx="45" fill="url(#paint0_linear)" />
+  
+  <!-- Book icon -->
+  <g transform="translate(45, 45) scale(2.8125)">
+    <path d="M8 10C8 8.89543 8.89543 8 10 8H22C23.1046 8 24 8.89543 24 10V22C24 23.1046 23.1046 24 22 24H10C8.89543 24 8 23.1046 8 22V10Z" fill="white" />
+    <rect x="11" y="12" width="10" height="2" rx="1" fill="#3B82F6" />
+    <rect x="11" y="15" width="10" height="2" rx="1" fill="#3B82F6" />
+    <rect x="11" y="18" width="7" height="2" rx="1" fill="#3B82F6" />
+  </g>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#1E40AF" />
+    </linearGradient>
+  </defs>
+</svg> 

@@ -26,7 +26,7 @@ Picture this: A dedicated teacher, mountains of paper registers, and a student (
 - 🎨 UI that sparks joy (Marie Kondo approved! 😉)
 - 🔄 Demo mode for easy testing
 
-## 🛠️ Tech Stack for the Actual Production One
+## 🛠️ Tech Stack (Production Version)
 
 - **Frontend**: React 18 + TypeScript (because we like our code typed and our coffee strong!)
 - **Build**: Vite (zoom zoom! ⚡)

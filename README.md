@@ -58,7 +58,7 @@ npm run dev
 
 Visit `http://localhost:5173` and watch the magic happen! ✨
 
-## 🎯 Demo vs Production
+## 🔁 Switching: Demo ↔️ Production
 
 This repo contains the demo version using localStorage for easy testing. For the production version with Firebase:
 

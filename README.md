@@ -4,7 +4,7 @@
 
 This project started as a labor of love - helping my high school teacher manage his growing tutoring center. What began as a simple booking system evolved into something that helped him focus more on teaching and less on paperwork. The best part? He used the time saved to offer free tutoring to underprivileged students! 💝
 
-![EduBatch Demo]((https://media.giphy.com/media/gB5ZYRQGxpSzQUsEEr/giphy-preview.gif)](https://giphy.com/gifs/gB5ZYRQGxpSzQUsEEr)
+[![Demo GIF](https://media.giphy.com/media/gB5ZYRQGxpSzQUsEEr/giphy.gif)](https://giphy.com/gifs/gB5ZYRQGxpSzQUsEEr)
 )
 
 ## 🌟 The Story Behind It

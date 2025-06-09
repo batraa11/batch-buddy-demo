@@ -7,7 +7,7 @@ This project started as a labor of love - helping my high school teacher manage 
 [![Demo GIF](https://media.giphy.com/media/gB5ZYRQGxpSzQUsEEr/giphy.gif)](https://giphy.com/gifs/gB5ZYRQGxpSzQUsEEr)
 
 
-Heres a Youtube Link for a better look
+Heres the Youtube Link for a better look
 https://youtu.be/6bKhSrzDGTU
 
 ## 🌟 The Story Behind It

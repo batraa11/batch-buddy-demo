@@ -117,11 +117,11 @@ These challenges not only strengthened the app but also polished my workflow for
 
 Got ideas? We'd love to hear them! This project is all about making education better, one commit at a time.
 
-1. Fork it (yes, like a fork in the road, but cooler)
+1. Fork it (yes, like a fork you eat with, but cooler)
 2. Create your feature branch (`git checkout -b feature/amazing-idea`)
 3. Commit your changes (`git commit -m 'Add some amazingness'`)
 4. Push to the branch (`git push origin feature/amazing-idea`)
-5. Open a Pull Request (and make our day!)
+5. Open a Pull Request (and make my day!)
 
 ## 📝 License
 
@@ -134,11 +134,3 @@ MIT Licensed. Use it, break it, fix it, but most importantly - make education be
 - Coffee ☕, lots and lots of coffee
 
 ---
-
-Made with ❤️ and a sprinkle of JavaScript magic
-
-## Contact
-
-EduBatch Academy - [@edubatch_academy](https://twitter.com/edubatch_academy)
-
-Project Link: [https://github.com/yourusername/edubatch-academy](https://github.com/yourusername/edubatch-academy)
